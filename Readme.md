@@ -50,7 +50,7 @@ Newlec_Project
 |Member-로그인|Login_controller.java|"/memberLogin"|login.jsp|MemberService|
 |Member-로그아웃|Logout_controller.java|"/memberLogout"|....|MemberService|
 
-![멤버](image/member.png)
+![멤버](image/member.PNG)
 
 ### ■ 전체 구성도
 
@@ -62,6 +62,7 @@ Newlec_Project
 
 ### ■ 자세한 내용..
 
-[project1]](https://ehgus5825.github.io/java-web/JSP-06/)
-[project2]](https://ehgus5825.github.io/java-web/JSP-07/)
+[project1](https://ehgus5825.github.io/java-web/JSP-06/)
+
+[project2](https://ehgus5825.github.io/java-web/JSP-07/)
 

@@ -1,4 +1,4 @@
-Newlec_Project
+Newlec_Project (2022.11 ~ )
 ------
 
 이 프로젝트는 newlectuer.com 사이트에 있는 html을 jsp로 바꾸어 view를 두고 controller와 업무서비스를 위한 sevlet을 만들고 db와 연결하여 게시판과 서비스를 만들어보는 프로젝트이다.

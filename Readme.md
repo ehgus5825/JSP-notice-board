@@ -1,68 +1,32 @@
-Newlec_Project (2022.11 ~ )
-------
+## 📚 게시판 서비스 제작 프로젝트
 
-이 프로젝트는 newlectuer.com 사이트에 있는 html을 jsp로 바꾸어 view를 두고 controller와 업무서비스를 위한 sevlet을 만들고 db와 연결하여 게시판과 서비스를 만들어보는 프로젝트이다.
+ <br>
 
-개발 내용
-------
+## 📆 기간
 
-### ■ index - 홈
+2022.11
 
-|구분|Controller|@Anotation|View|Service|
-|----|---|---|---|----|
-|홈|Index_controller.java|"/index"|index.jsp|NoticeService|
+<br>
 
+## 📗 기술 스택
 
-![홈](image/home.PNG)
+Java, MySQL, JSP, Docker, Bootstrap
 
-### ■ Notice - 공지사항
+<br>
 
-|구분|Controller|@Anotation|View|Service|
-|----|---|---|---|----|
-|Notice-글 상세|Detail_controller.java|"/noticeDetail"|detail.jsp|NoticeService|
-|Notice-글 목록|List_controller.java|"/noticeList"|list.jsp|NoticeService|
-|Notice-글 등록|Reg_controller.java|"/noticeReg"|reg.jsp|NoticeService|
-|Notice-글 수정|Update_controller.java|"/noticeUpdate"|update.jsp|NoticeService|
-|Notice-글 삭제|Delete_controller.java|"/noticeDelete"|....|NoticeService|
+### ERD 다이어그램
 
-![공지사항](image/notice.PNG)
+// 사진
 
-### ■ Mypage - 마이페이지
+### 구성도
 
-|구분|Controller|@Anotation|View|Service|
-|----|---|---|---|----|
-|Mypage-내 글 목록|MyPage_controller.java|"/memberMyPage"|myPage.jsp|NoticeService|
-|Mypage-내 글 상세|MyDetail_controller.java|"/memberMyDetail"|myDetail.jsp|NoticeService|
-|Mypage-내 글 등록|MyReg_controller.java|"/memberMyReg"|myReg.jsp|NoticeService|
-|Mypage-내 글 수정|MyUpdate_controller.java|"/memberMyUpdate"|myUpdate.jsp|NoticeService|
-|Mypage-내 글 삭제|MyDelete_controller.java|"/memberMyDelete"|....|NoticeService|
+// 사진
 
-![마이페이지](image/mypage.PNG)
+### 어떻게 돌아가는지
 
-### ■ Member - 회원
+// 사진
 
-|구분|Controller|@Anotation|View|Service|
-|----|---|---|---|----|
-|Member-가입동의|Agree_controller.java|"/memberAgree"|agree.jsp|MemberService|
-|Member-회원정보등록|Join_controller.java|"/memberJoin"|join.jsp|MemberService|
-|Member-가입확인|Confirm_controller.java|"/memberConfirm"|confirm.jsp|MemberService|
-|Member-중복체크|Dupl_check_controller.java|"/memberDupl"|....|MemberService|
-|Member-로그인|Login_controller.java|"/memberLogin"|login.jsp|MemberService|
-|Member-로그아웃|Logout_controller.java|"/memberLogout"|....|MemberService|
+## ■ 기술 블로그
 
-![멤버](image/member.PNG)
-
-### ■ 전체 구성도
-
-![NoticeDraw](image/notice.drawio.png)
-
-### ■ DB 테이블 및 뷰
-
-![테이블뷰](image/tableAndview.PNG)
-
-### ■ 자세한 내용..
-
-[project1](https://ehgus5825.github.io/java-web/JSP-06/)
-
-[project2](https://ehgus5825.github.io/java-web/JSP-07/)
+https://velog.io/@ehgus5825/series/%ED%86%A0%EC%9D%B4-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B0%84%EB%8B%A8-%EA%B2%8C%EC%8B%9C%ED%8C%90-%EC%A0%9C%EC%9E%91-jsp-bootstrap
 

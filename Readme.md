@@ -1,4 +1,8 @@
-## 📚 간단 게시판 프로젝트
+## 📚 서비스 소개
+
+
+
+ <br>
 
 ## 🔗 배포링크 
 
@@ -20,7 +24,7 @@ Java, MySQL, JSP, Docker, Bootstrap
 
 ## ERD 다이어그램
 
-// 사진
+![image](https://github.com/ehgus5825/JSP-notice-board/assets/57056674/f7680a49-e85d-446d-b186-1c317f0b8f61)
 
 <br>
 

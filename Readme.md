@@ -87,7 +87,7 @@ Java, MySQL, JSP, Docker, Bootstrap, javascript
 
 - 최신순 or 조회순 조회
   
-![Uploading select1.png…]()
+![select1](https://github.com/ehgus5825/JSP-notice-board/assets/57056674/95e256d0-d8de-4ceb-b050-01bcae114d94)
 
 <br>
 

@@ -26,7 +26,7 @@ Java, MySQL, JSP, Docker, Bootstrap
 
 ## 구성도
 
-// 사진
+![게시판 구성도](https://github.com/ehgus5825/JSP-notice-board/assets/57056674/cbaf0873-b652-4cfc-b916-e37e9dbc831d)
 
 <br>
 
